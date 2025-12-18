@@ -1,2 +1,2 @@
-# Alan-Pluto.github.io
+# Alan-Pluto's Blog
 A Jekyll + Github Pages Demo
