@@ -3,6 +3,11 @@ description: "Notes on security, cryptography and engineering"
 
 remote_theme: mmistakes/minimal-mistakes@4.27.3
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 plugins:
   - jekyll-include-cache
 
