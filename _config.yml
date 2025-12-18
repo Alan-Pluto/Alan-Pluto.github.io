@@ -3,18 +3,13 @@ description: "Notes on security, cryptography and engineering"
 
 remote_theme: mmistakes/minimal-mistakes@4.27.3
 
-minimal_mistakes_skin: "air"
-
-header_pages:
-  - _pages/about.md
-
 plugins:
   - jekyll-include-cache
 
 markdown: kramdown
 
 author:
-  name   : "Alan Luo"
+  name   : "Alan Pluto"
   avatar : "/assets/images/avatar.jpg"
   bio    : "Security · Cryptography · Engineering"
   location: "Hefei · China"
