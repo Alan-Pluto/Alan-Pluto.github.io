@@ -1,8 +1,12 @@
 ---
 title: "About"
-permalink: /about/
 layout: single
+permalink: /about/
+author_profile: true
 ---
 
-这里是个人简介。
-欢迎来到我的个人站点。在这里，你可以了解更多关于我的信息以及我所从事的工作和兴趣爱好。希望你能喜欢这里的内容！
+This is my personal blog, focusing on security, cryptography and engineering.
+
+- Post-quantum cryptography
+- Secure systems
+- Automotive security
