@@ -1,3 +1,5 @@
 main:
+  - title: "Blogs"
+    url: /categories/
   - title: "About"
     url: /about/
