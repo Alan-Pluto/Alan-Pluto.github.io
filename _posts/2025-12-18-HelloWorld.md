@@ -3,7 +3,7 @@ title: "Hello World"
 date: 2025-12-18
 excerpt: "这是我的第一篇文章。"
 author_profile: false
-categories: [Blog, Test]
+categories: [Blog]
 tags: [Jekyll, GitHub Pages]
 ---
 

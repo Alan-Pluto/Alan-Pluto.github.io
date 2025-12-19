@@ -9,9 +9,14 @@ collections:
     permalink: /:path/
 
 plugins:
+  - jekyll-feed
   - jekyll-include-cache
 
 markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 author:
   name   : "Alan Pluto"
