@@ -17,6 +17,7 @@ kramdown:
   input: GFM
   math_engine: mathjax
   syntax_highlighter: rouge
+mathjax: true
 
 author:
   name   : "Alan Pluto"
@@ -27,6 +28,14 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/Alan-Pluto"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:alan_pluto@163.com"
+  affiliation: "Hefei University of Technology"
+  research_interests:
+    - Post-Quantum Cryptography
+    - Intelligent Connected Vehicle Security
+    - Secure Embedded Systems
 
 defaults:
   - scope:
